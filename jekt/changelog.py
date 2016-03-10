@@ -1,0 +1,4 @@
+#gitchangelog
+
+class ChangeLog:
+	pass

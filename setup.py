@@ -24,7 +24,7 @@ setup(
 	include_package_data	= True,
 	scripts			= ['ez_setup.py', 'rc_setup.py'],
 	entry_points 		= entry_points,
-	install_requires	= ['redlib>=1.3.0', 'redcmd>=1.1.7', 'enum34', 'GitPython>=1.0.2', 'PyGithub>=1.26.0'],
+	install_requires	= ['redlib>=1.3.0', 'redcmd>=1.1.7', 'enum34', 'GitPython>=1.0.2', 'requests>=2.9.1', 'asq'],
 	classifiers		= [
 					'Development Status :: 4 - Beta',
 					'Environment :: Console',
